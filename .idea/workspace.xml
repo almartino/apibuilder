@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caa20d2a-9b8e-46f3-a076-8375d51a34cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/tools/DevKits/golang/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dh3JO2tiDUDuYnfiiHkWJH5ffg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="225" width="426" height="479" key="FileChooserDialogImpl" timestamp="1592863617682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="225" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1592863617682" />
+    <state x="454" y="102" key="SettingsEditor" timestamp="1592863528075">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="102" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1592863528075" />
+    <state x="623" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1592863509951">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592863509951" />
+  </component>
+</project>
