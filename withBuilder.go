@@ -7,6 +7,7 @@ import (
 
 //With inject parent []Middleware into *Multi instance
 type With struct {
+	original []Middleware
 	middleware []Middleware
 	m          *Multi
 }
@@ -28,8 +29,17 @@ func (m *Multi) With(middleware ...Middleware) *With {
 		panic("no middleware specified for with")
 	}
 	return &With{
+		original: middleware,
 		middleware: middleware,
 		m:          m,
+	}
+}
+
+func (w *With) NewGroup(middleware ...Middleware) *With {
+	return &With{
+		original: w.middleware,
+		middleware: append(w.original, middleware...),
+		m:          w.m,
 	}
 }
 
